@@ -40,6 +40,7 @@ body{
     background-color: #63B3ED;
     color: #FFFFFF;
     padding: 20px;
+    line-height: 1%;
 
 }
 .Img{
@@ -63,11 +64,13 @@ body{
 
  .p2{
      color:  #718096;
+     line-height: 2%;
  }
 
  h2{
      font-size: 32px;
     color: #48BB78;
+    line-height: 2%;
  }
 
  .img1{
